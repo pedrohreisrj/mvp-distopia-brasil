@@ -16,7 +16,16 @@ notebooks/
 
 ## Fonte dos Dados
 
-Varieties of Democracy (V-Dem Dataset v16)
+Os dados utilizados neste projeto foram extraídos do dataset V-Dem (Varieties of Democracy).
+
+A base disponibilizada neste repositório corresponde a uma versão reduzida e tratada da base original, contendo apenas:
+
+- Brasil
+- Período 2000–2025
+- Variáveis utilizadas na construção do Distopia Score
+
+Base original:
+https://www.v-dem.net/data/the-v-dem-dataset/
 
 ## Modelos Avaliados
 
